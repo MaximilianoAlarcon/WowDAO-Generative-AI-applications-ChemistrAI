@@ -1,10 +1,10 @@
 # WowDAO-Generative-AI-applications-ChemistrAI
-<p align="center">
+<h1 align="center">
 <center><b>ChemistrAI</b></center>
-</p>
-<p align="center">
+</h1>
+<h1 align="center">
 <center><b>Context</b></center>
-</p>
+</h1>
 To this day, there are years of documents on chemical formulas scanned but not automatically searchable for specific chemical representations (because they are written on paper and with the skeletal formula).
 
 Automated recognition of optical chemical structures, with the help of machine learning, could speed up research and development efforts. Existing tools produce 90% accuracy, but only under optimal conditions. Historical sources often have some level of image corruption, which reduces performance to near zero. In these cases, time-consuming manual labor is required to reliably convert the scanned images of the chemical structure into a machine-readable format.
