@@ -1,15 +1,3 @@
-<h1 align="center">
-WowDAO-Generative-AI-applications-ChemistrAI
-</h1>
-<h1 align="center">
-<center><b>ChemistrAI</b></center>
-</h1>
-<h1 align="left">
-<center><b>Context</b></center>
-</h1>
-To this day, there are years of documents on chemical formulas scanned but not automatically searchable for specific chemical representations (because they are written on paper and with the skeletal formula).
-
-Automated recognition of optical chemical structures, with the help of machine learning, could speed up research and development efforts. Existing tools produce 90% accuracy, but only under optimal conditions. Historical sources often have some level of image corruption, which reduces performance to near zero. In these cases, time-consuming manual labor is required to reliably convert the scanned images of the chemical structure into a machine-readable format.
-
-Tools to curate the chemical literature would be a significant benefit to researchers. This project aims to help chemists broaden access to collective chemical research. In turn, this would accelerate research and development efforts in many key fields by avoiding duplication of previously published chemistries and identifying novel trends by mining large data sets.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aba359f6a4724d3a323f2b0a7ae06f71a8975df9dde6c4f60ca088d12d935cc
+size 1234

@@ -3,3 +3,4 @@ oid sha256:848110b8f92f33b7c0ac3ea3bb8ac77eb3f6f83b2ec2cc77897c78bc6be5a857
 size 136
 *.png filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
+*.* filter=lfs diff=lfs merge=lfs -text
