@@ -1,5 +1,8 @@
-
 <h1 align="center">
+<b>ChemistrAI</b>
+</h1>
+
+<h1 align="left">
 <b>Context</b>
 </h1>
 
