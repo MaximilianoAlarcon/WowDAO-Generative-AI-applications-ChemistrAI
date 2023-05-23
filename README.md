@@ -1,8 +1,10 @@
-# WowDAO-Generative-AI-applications-ChemistrAI
+<h1 align="center">
+WowDAO-Generative-AI-applications-ChemistrAI
+</h1>
 <h1 align="center">
 <center><b>ChemistrAI</b></center>
 </h1>
-<h1 align="center">
+<h1 align="left">
 <center><b>Context</b></center>
 </h1>
 To this day, there are years of documents on chemical formulas scanned but not automatically searchable for specific chemical representations (because they are written on paper and with the skeletal formula).
