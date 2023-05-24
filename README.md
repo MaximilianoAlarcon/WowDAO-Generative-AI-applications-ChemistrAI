@@ -1,6 +1,6 @@
 <h1 align="center">
 <b>ChemistrAI</b>
-<img height="40em" width="40em" src="icono chemistrai.png" />
+<img height="30em" width="30em" src="icono chemistrai.png" />
 </h1>
 
 <h1 align="left">
