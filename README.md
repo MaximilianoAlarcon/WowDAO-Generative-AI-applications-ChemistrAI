@@ -1,6 +1,6 @@
 <h1 align="center">
 <b>ChemistrAI</b>
-<img height="25em" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img height="25em" width="100em" src="icono chemistrai.png" />
 </h1>
 
 <h1 align="left">
