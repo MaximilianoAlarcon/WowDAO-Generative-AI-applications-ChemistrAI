@@ -29,3 +29,12 @@ This translation process is known as Optical Chemical Structure Recognition (OCS
 
 * If characters are resolved with a high confidence level, they are removed from the image. Then, the image is thinned and crossing points and bending points are identified. The remaining elements are divided into lines and curves. After a bond recognition step, the elements are grouped and the “most suitable combination” is determined. Then, the remaining characters are resolved by using a custom OCR engine. According to the authors, ChemistrAI has the advantage of dealing with characters in labels that touch the lines in the structure diagram.
 
+<h1 align="left">
+<b>Encoder (Neural Network)</b>
+</h1>
+<img src="Encoder - Neural Network.png" />
+
+<h1 align="left">
+<b>Decoder (Neural Network)</b>
+</h1>
+<img src="Decoder - Neural Network.png" />
