@@ -3,9 +3,9 @@
 <img height="30em" width="30em" src="icono chemistrai.png" />
 </h1>
 
-<h1 align="left">
+<h2 align="left">
 <b>Context</b>
-</h1>
+</h2>
 
 To this day, there are years of documents on chemical formulas scanned but not automatically searchable for specific chemical representations (because they are written on paper and with the skeletal formula).
 
@@ -13,9 +13,9 @@ Automated recognition of optical chemical structures, with the help of machine l
 
 Tools to curate the chemical literature would be a significant benefit to researchers. This project aims to help chemists broaden access to collective chemical research. In turn, this would accelerate research and development efforts in many key fields by avoiding duplication of previously published chemistries and identifying novel trends by mining large data sets.
 
-<h1 align="left">
+<h3 align="left">
 <b>Project Description</b>
-</h1>
+</h3>
 
 This translation process is known as Optical Chemical Structure Recognition (OCSR). Today, we are looking back on nearly three decades of development in this demanding research field. Most OCSR methods follow a rule-based approach where the key step of vectorization of the depiction is followed by the interpretation of vectors and nodes as bonds and atoms. Opposed to that, some of the latest approaches are based on deep neural networks (DNN) and this, is based on CNN and RNN combined as one generative model
 
